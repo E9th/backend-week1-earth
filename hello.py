@@ -1,1 +1,1 @@
-"Hello, Backend World!"
+print("Hello, Backend World!")
